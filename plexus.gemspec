@@ -22,7 +22,6 @@ Graph algorithms currently provided are:
   s.add_dependency "rake"
   s.add_dependency "activesupport"
   s.add_dependency "facets"
-  s.add_dependency "plexus"
   s.add_development_dependency "rspec"
   s.add_development_dependency "yard"
 end
