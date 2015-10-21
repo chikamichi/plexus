@@ -1,3 +1,5 @@
+![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
+
 # Plexus (was Graphy). A framework for graph theory, graph data structures and associated algorithms.
 
 Graph algorithms currently provided are:
